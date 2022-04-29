@@ -1,31 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@moabdib2000 
-prokopiff
-/
-zmk-config-reviung41
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-zmk-config-reviung41/config/reviung41.keymap
-@prokopiff
-prokopiff Update configs
-Latest commit 9591233 on 31 Jan
- History
- 1 contributor
-60 lines (52 sloc)  2.8 KB
-   
+
 /*
  * Copyright (c) 2020 The ZMK Contributors
  *
