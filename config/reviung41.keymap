@@ -31,7 +31,7 @@
  * GitHub Issue: https://github.com/zmkfirmware/zmk/issues/885
  */
 
-/ {
+
         keymap {
                 compatible = "zmk,keymap";
                 default_layer {
